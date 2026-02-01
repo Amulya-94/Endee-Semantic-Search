@@ -1,0 +1,10 @@
+Endee is a high-performance vector database.
+It is written in C++ and supports SIMD optimizations like AVX2 and AVX512.
+Endee provides a RESTful API for managing indexes and vectors.
+It is designed for AI, semantic search, and RAG applications.
+You can run Endee using Docker.
+Endee supports both dense and sparse vectors (Hybrid Search).
+Authentication can be enabled using a token.
+Backups can be created and restored via the API.
+Endee allows filtering search results using JSON filters.
+It is open source and available on GitHub.
